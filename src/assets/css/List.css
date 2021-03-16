@@ -1,0 +1,12 @@
+.List{
+    display:flex;
+    padding:70px 20px;
+    flex-wrap: nowrap;
+    width: 20%;
+    text-align: left;
+    margin:0 50px;
+}
+
+.List .Card{
+    height: 25%;
+}

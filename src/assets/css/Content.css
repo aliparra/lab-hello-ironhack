@@ -1,0 +1,13 @@
+.Content{
+    color: white;
+    padding: 10px 40px;
+    text-align: left;
+}
+
+.Content h1{
+    font-size: 56px;
+    width: 50%;
+}
+.Content p{
+    width: 30%;
+}

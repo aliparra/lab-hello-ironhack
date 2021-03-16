@@ -1,0 +1,10 @@
+.Header{
+    display:flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.Header img{
+    padding: 0 40px}
+
+
